@@ -114,6 +114,50 @@ main .cartao-pokemon .tipo{
     background-color: #a6b81a;
 }
 
+.normal{
+    background-color: #a4acae;
+}
+
+.eletrico{
+    background-color: yellow;
+}
+
+.terra{
+    background-color: #f7de3f;
+}
+
+.fada{
+    background-color: #fdb9e9;
+}
+
+.lutador{
+    background-color: #d56723;
+}
+
+.psiquico{
+    background-color: #f366b9;
+}
+
+.pedra{
+    background-color: #a38c21;
+}
+
+.ferro{
+    background-color: #9eb7b8;
+}
+
+.gelo{
+    background-color: aqua;
+}
+
+.fantasma{
+    background-color: #7b62a3;
+}
+
+.dragao{
+    background-color: #006bc2;
+}
+
 .main .descricao{
     overflow: auto;
     max-height: 80px;
